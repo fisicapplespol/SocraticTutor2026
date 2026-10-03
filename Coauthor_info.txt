@@ -1,0 +1,41 @@
+Author 1
+Name: Jorge Roblero Wong
+Filiation:  Departamento de Física, Facultad de Ciencias Naturales y Matemáticas, 
+            Escuela Superior Politécnica del Litoral, ESPOL, Campus Gustavo Galindo, km. 30.5 Vía Perimetral, P. O. Box 09-01-5863, Guayaquil, Ecuador
+Orcid ID: 0000-0002-8520-6379
+email: jroblero@espol.edu.ec
+Aportation: Classroom monitors. Provide feedback and review the tutor's response to students.
+
+Author 2
+Name: Luis Del Pozo
+Filiation:  Departamento de Física, Facultad de Ciencias Naturales y Matemáticas, 
+            Escuela Superior Politécnica del Litoral, ESPOL, Campus Gustavo Galindo, km. 30.5 Vía Perimetral, P. O. Box 09-01-5863, Guayaquil, Ecuador
+Orcid ID: 0009-0007-7017-7433
+email: lpozo@espol.edu.ec
+Aportation:
+
+Author 3
+Name: Eduardo Montero Carpio
+Filiation:  Departamento de Física, Facultad de Ciencias Naturales y Matemáticas, 
+            Escuela Superior Politécnica del Litoral, ESPOL, Campus Gustavo Galindo, km. 30.5 Vía Perimetral, P. O. Box 09-01-5863, Guayaquil, Ecuador
+Orcid ID: 0000-0002-9684-400X
+email: emontero@espol.edu.ec
+Aportation:
+
+Author 4
+Name: Luis Pabón-Orozco
+Filiation:  Departamento de Física, Facultad de Ciencias Naturales y Matemáticas, 
+            Escuela Superior Politécnica del Litoral, ESPOL, Campus Gustavo Galindo, km. 30.5 Vía Perimetral, P. O. Box 09-01-5863, Guayaquil, Ecuador
+Orcid ID: 0000-0003-4542-0570
+email: luispabo@espol.edu.ec
+Aportation: Classroom monitors. Provide feedback and review the tutor's response to students.
+
+Author 5
+Name: Erick Lamilla Rubio
+Filiation:  Departamento de Física, Facultad de Ciencias Naturales y Matemáticas, 
+            Escuela Superior Politécnica del Litoral, ESPOL, Campus Gustavo Galindo, km. 30.5 Vía Perimetral, P. O. Box 09-01-5863, Guayaquil, Ecuador
+Orcid ID: 0000-0002-1644-9465
+email:
+Aportation:
+
+

@@ -8,7 +8,8 @@ and should be preserved in the manuscript and related research outputs.
 ----------------------------------------------------------------------
 Jorge Roblero Wong
 ----------------------------------------------------------------------
-
+Orcid: 0000-0002-8520-6379
+mail: jroblero@espol.edu.ec
 Contribution:
 - Conceptualization of the study.
 - Development of the research methodology and study design.
@@ -34,7 +35,8 @@ Writing – review & editing; Supervision; Project administration.
 ----------------------------------------------------------------------
 Luis Del Pozo
 ----------------------------------------------------------------------
-
+Orcid: 0009-0007-7017-7433 (Por confirmar)
+mail: lpozo@espol.edu.ec
 Contribution:
 - Supervision and academic feedback during the development of the study.
 - Review of the Socratic tutor prompt and instructional workflow.
@@ -50,7 +52,8 @@ Methodology; Validation; Supervision; Writing – review & editing.
 ----------------------------------------------------------------------
 Eduardo Montero Carpio
 ----------------------------------------------------------------------
-
+Orcid: 0000-0002-9684-400X
+mail: emontero@espol.edu.ec
 Contribution:
 - Administrative coordination of the study within the Department of Physics.
 - Management of institutional and departmental permissions associated with the study
@@ -68,7 +71,8 @@ Project administration; Resources; Writing – review & editing [if confirmed].
 ----------------------------------------------------------------------
 Luis Pabon-Orozco
 ----------------------------------------------------------------------
-
+Orcid: 0000-0003-4542-0570
+mail: luispabo@espol.edu.ec
 Contribution:
 - Classroom monitoring and follow-up of instructional activities.
 - Observation and review of the implementation of the Socratic tutor during the course.
@@ -82,9 +86,10 @@ Investigation; Validation; Writing – review & editing.
 
 
 ----------------------------------------------------------------------
-Erick Lamilla Rubio
+Erick Lamilla-Rubio
 ----------------------------------------------------------------------
-
+Orcid: 0000-0002-1644-9465
+mail: elamilla@espol.edu.ec
 Contribution:
 - Expert review of the Socratic tutor prompt and instructional design.
 - Testing of the tutor's responses during the initial development stage.

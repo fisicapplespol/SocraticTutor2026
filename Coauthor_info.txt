@@ -4,7 +4,7 @@ Filiation:  Departamento de Física, Facultad de Ciencias Naturales y Matemátic
             Escuela Superior Politécnica del Litoral, ESPOL, Campus Gustavo Galindo, km. 30.5 Vía Perimetral, P. O. Box 09-01-5863, Guayaquil, Ecuador
 Orcid ID: 0000-0002-8520-6379
 email: jroblero@espol.edu.ec
-Aportation: Classroom monitors. Provide feedback and review the tutor's response to students.
+Aportation: Article writing, generation of statistics, and review of student activities for feedback and prompt parameter adjustment.
 
 Author 2
 Name: Luis Del Pozo
@@ -12,7 +12,7 @@ Filiation:  Departamento de Física, Facultad de Ciencias Naturales y Matemátic
             Escuela Superior Politécnica del Litoral, ESPOL, Campus Gustavo Galindo, km. 30.5 Vía Perimetral, P. O. Box 09-01-5863, Guayaquil, Ecuador
 Orcid ID: 0009-0007-7017-7433
 email: lpozo@espol.edu.ec
-Aportation:
+Aportation: was in charge of the process, generating new ideas for the rapid system and acting as the process reviewer.
 
 Author 3
 Name: Eduardo Montero Carpio
@@ -20,7 +20,7 @@ Filiation:  Departamento de Física, Facultad de Ciencias Naturales y Matemátic
             Escuela Superior Politécnica del Litoral, ESPOL, Campus Gustavo Galindo, km. 30.5 Vía Perimetral, P. O. Box 09-01-5863, Guayaquil, Ecuador
 Orcid ID: 0000-0002-9684-400X
 email: emontero@espol.edu.ec
-Aportation:
+Aportation: Coordinated project evaluations with external professors, as well as procedures with the relevant authorities and the administrative aspects of the process.
 
 Author 4
 Name: Luis Pabón-Orozco
@@ -28,14 +28,14 @@ Filiation:  Departamento de Física, Facultad de Ciencias Naturales y Matemátic
             Escuela Superior Politécnica del Litoral, ESPOL, Campus Gustavo Galindo, km. 30.5 Vía Perimetral, P. O. Box 09-01-5863, Guayaquil, Ecuador
 Orcid ID: 0000-0003-4542-0570
 email: luispabo@espol.edu.ec
-Aportation: Classroom monitors. Provide feedback and review the tutor's response to students.
+Aportation: Review of article writing, validation of statistics, and review of student activities for feedback as classroom monitor.
 
 Author 5
 Name: Erick Lamilla Rubio
 Filiation:  Departamento de Física, Facultad de Ciencias Naturales y Matemáticas, 
             Escuela Superior Politécnica del Litoral, ESPOL, Campus Gustavo Galindo, km. 30.5 Vía Perimetral, P. O. Box 09-01-5863, Guayaquil, Ecuador
 Orcid ID: 0000-0002-1644-9465
-email:
-Aportation:
+email: elamilla@espol.edu.ec
+Aportation:It serves as a central hub for simulating and conducting tests for projects, surveys, and documents, and assists students with their laboratory work.
 
 

@@ -1,41 +1,136 @@
-Author 1
-Name: Jorge Roblero Wong
-Filiation:  Departamento de Física, Facultad de Ciencias Naturales y Matemáticas, 
-            Escuela Superior Politécnica del Litoral, ESPOL, Campus Gustavo Galindo, km. 30.5 Vía Perimetral, P. O. Box 09-01-5863, Guayaquil, Ecuador
-Orcid ID: 0000-0002-8520-6379
-email: jroblero@espol.edu.ec
-Aportation: Article writing, generation of statistics, and review of student activities for feedback and prompt parameter adjustment.
+COAUTHOR INFORMATION
+SocraticTutor2026
 
-Author 2
-Name: Luis Del Pozo
-Filiation:  Departamento de Física, Facultad de Ciencias Naturales y Matemáticas, 
-            Escuela Superior Politécnica del Litoral, ESPOL, Campus Gustavo Galindo, km. 30.5 Vía Perimetral, P. O. Box 09-01-5863, Guayaquil, Ecuador
-Orcid ID: 0009-0007-7017-7433
-email: lpozo@espol.edu.ec
-Aportation: oversaw the process, providing feedback on ideas within the prompt and acting as a reviewer. He verified the physical validity of the concepts that were evaluated and refined through feedback.
+This file records the author information and contributions associated with the study.
+Author names are written according to the form registered in each author's ORCID record
+and should be preserved in the manuscript and related research outputs.
 
-Author 3
-Name: Eduardo Montero Carpio
-Filiation:  Departamento de Física, Facultad de Ciencias Naturales y Matemáticas, 
-            Escuela Superior Politécnica del Litoral, ESPOL, Campus Gustavo Galindo, km. 30.5 Vía Perimetral, P. O. Box 09-01-5863, Guayaquil, Ecuador
-Orcid ID: 0000-0002-9684-400X
-email: emontero@espol.edu.ec
-Aportation: Coordinated project evaluations with external professors, as well as procedures with the relevant authorities and the administrative aspects of the process.
+----------------------------------------------------------------------
+Jorge Roblero Wong
+----------------------------------------------------------------------
 
-Author 4
-Name: Luis Pabón-Orozco
-Filiation:  Departamento de Física, Facultad de Ciencias Naturales y Matemáticas, 
-            Escuela Superior Politécnica del Litoral, ESPOL, Campus Gustavo Galindo, km. 30.5 Vía Perimetral, P. O. Box 09-01-5863, Guayaquil, Ecuador
-Orcid ID: 0000-0003-4542-0570
-email: luispabo@espol.edu.ec
-Aportation: Review of article writing, validation of statistics, and review of student activities for feedback as classroom monitor.
+Contribution:
+- Conceptualization of the study.
+- Development of the research methodology and study design.
+- Design and configuration of the Socratic AI tutor and its instructional workflow.
+- Development and adjustment of the tutor prompt and evaluation criteria.
+- Implementation of the AI-mediated instructional activities in the classroom.
+- Monitoring of the instructional activities during the course.
+- Collection and organization of the academic data used in the study.
+- Data curation and preparation of the analytical dataset.
+- Formal statistical analysis.
+- Generation and interpretation of the statistical results.
+- Preparation of tables and visualizations.
+- Writing of the original manuscript draft.
+- Review and editing of the manuscript.
+- Coordination and supervision of the research process.
 
-Author 5
-Name: Erick Lamilla Rubio
-Filiation:  Departamento de Física, Facultad de Ciencias Naturales y Matemáticas, 
-            Escuela Superior Politécnica del Litoral, ESPOL, Campus Gustavo Galindo, km. 30.5 Vía Perimetral, P. O. Box 09-01-5863, Guayaquil, Ecuador
-Orcid ID: 0000-0002-1644-9465
-email: elamilla@espol.edu.ec
-Aportation: Review and validate the prompt used with the students as expert, providing feedback on ideas within the prompt and acting as a reviewer.
+Proposed CRediT roles:
+Conceptualization; Methodology; Software; Investigation; Data curation;
+Formal analysis; Visualization; Writing – original draft;
+Writing – review & editing; Supervision; Project administration.
 
 
+----------------------------------------------------------------------
+Luis Del Pozo
+----------------------------------------------------------------------
+
+Contribution:
+- Supervision and academic feedback during the development of the study.
+- Review of the Socratic tutor prompt and instructional workflow.
+- Feedback on the configuration and behavior of the tutor.
+- Review of the physical concepts, questions, and responses generated within the tutor.
+- Verification of the physical validity and consistency of the content used by the tutor.
+- Review and critical feedback on the research and manuscript.
+
+Proposed CRediT roles:
+Methodology; Validation; Supervision; Writing – review & editing.
+
+
+----------------------------------------------------------------------
+Eduardo Montero Carpio
+----------------------------------------------------------------------
+
+Contribution:
+- Administrative coordination of the study within the Department of Physics.
+- Management of institutional and departmental permissions associated with the study
+  in his capacity as a departmental authority.
+- Coordination with the relevant academic authorities when authorization or
+  institutional documentation was required.
+- Coordination of evaluation activities involving external professors when applicable.
+- Support for the institutional and administrative procedures required for the project.
+- Review and feedback on the research and manuscript, when applicable.
+
+Proposed CRediT roles:
+Project administration; Resources; Writing – review & editing [if confirmed].
+
+
+----------------------------------------------------------------------
+Luis Pabon-Orozco
+----------------------------------------------------------------------
+
+Contribution:
+- Classroom monitoring and follow-up of instructional activities.
+- Observation and review of the implementation of the Socratic tutor during the course.
+- Review of tutor responses and feedback on its performance in the classroom context.
+- Review of the statistical analyses and results.
+- Statistical validation and verification of the reported analyses.
+- Critical review and editing of the manuscript.
+
+Proposed CRediT roles:
+Investigation; Validation; Writing – review & editing.
+
+
+----------------------------------------------------------------------
+Erick Lamilla Rubio
+----------------------------------------------------------------------
+
+Contribution:
+- Expert review of the Socratic tutor prompt and instructional design.
+- Testing of the tutor's responses during the initial development stage.
+- Feedback on the tutor's behavior, response quality, and instructional interaction.
+- Review and testing of the tutor's responses during the final development stage.
+- Validation of the prompt and tutor behavior before its finalized use.
+- Critical review and feedback on the research and manuscript.
+
+Erick Lamilla Rubio did not participate in classroom implementation and did not
+interact with the students during the course.
+
+Proposed CRediT roles:
+Methodology; Validation; Writing – review & editing.
+
+
+----------------------------------------------------------------------
+FINAL MANUSCRIPT APPROVAL
+----------------------------------------------------------------------
+
+Before submission, each author must confirm that they:
+
+1. Have reviewed the final version of the manuscript.
+2. Approve the version to be submitted for publication.
+3. Agree with the authorship order and the spelling of their author name.
+4. Confirm that the contributions described in this file accurately represent
+   their participation in the study.
+5. Accept responsibility for their own contributions and agree to address
+   questions related to the accuracy or integrity of the work as appropriate.
+
+Status:
+Jorge Roblero Wong: [PENDING CONFIRMATION]
+Luis Del Pozo: [PENDING CONFIRMATION]
+Eduardo Montero Carpio: [PENDING CONFIRMATION]
+Luis Pabon-Orozco: [PENDING CONFIRMATION]
+Erick Lamilla Rubio: [PENDING CONFIRMATION]
+
+
+----------------------------------------------------------------------
+AUTHORSHIP NOTES
+----------------------------------------------------------------------
+
+- Author names in this file correspond to the names used in the authors' ORCID
+  records and should be treated as the authoritative spelling for publication.
+- Administrative authorization and ethical review are distinct processes.
+  Management of academic or departmental permissions must not be described as
+  institutional ethics approval or ethics exemption unless such a determination
+  has been formally issued by the competent institutional body.
+- The CRediT roles listed above are proposed mappings of the documented
+  contributions and must be confirmed by the respective authors before submission.

@@ -36,6 +36,6 @@ Filiation:  Departamento de Física, Facultad de Ciencias Naturales y Matemátic
             Escuela Superior Politécnica del Litoral, ESPOL, Campus Gustavo Galindo, km. 30.5 Vía Perimetral, P. O. Box 09-01-5863, Guayaquil, Ecuador
 Orcid ID: 0000-0002-1644-9465
 email: elamilla@espol.edu.ec
-Aportation: Review and validate the prompt used with the students as expert.
+Aportation: Review and validate the prompt used with the students as expert, providing feedback on ideas within the prompt and acting as a reviewer.
 
 

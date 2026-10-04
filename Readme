@@ -1,1 +1,85 @@
-This is a readme
+# SocraticTutor2026
+
+Research repository associated with the study:
+
+**“Tutoría socrática con inteligencia artificial y rendimiento académico en Electricidad y Magnetismo: estudio cuasi experimental comparativo en seis paralelos universitarios.”**
+
+## Overview
+
+This repository contains the materials associated with a quasi-experimental study conducted in undergraduate Electricity and Magnetism courses at ESPOL during PAO II 2025.
+
+The study compared six course sections under three instructional conditions:
+
+- AI-supported Socratic tutoring: P1, P5, and P6 (n = 147)
+- Active in-person follow-up: P2 (n = 42)
+- Non-AI classroom method: P3 and P4 (n = 98)
+
+The final analytical cohort contains **287 student records**.
+
+The primary outcome is the accumulated grade before the optional improvement examination. Post-improvement academic performance is analyzed as a secondary outcome.
+
+## Repository contents
+
+The repository is organized to preserve the materials required to document the study and reproduce the reported analyses.
+
+- `CoursesList/`: anonymized academic data and course-related files.
+- `Project_Info/`: documentation of the instructional intervention and project.
+- `Paper_previews/`: manuscript versions and related materials.
+- `Coauthor_info.txt`: author information and contribution records.
+
+Additional reproducibility materials, including the final analysis script and documentation of the Socratic tutor configuration, will be maintained in this repository.
+
+## Analytical sample
+
+The definitive analytical sample is:
+
+| Condition | Sections | n |
+|---|---|---:|
+| AI Socratic tutoring | P1, P5, P6 | 147 |
+| Active follow-up | P2 | 42 |
+| Non-AI classroom method | P3, P4 | 98 |
+| **Total** | P1–P6 | **287** |
+
+No additional student records were excluded from the post-improvement analysis.
+
+## Data protection
+
+The public research dataset is prepared for reproducibility and does not contain student names, institutional email addresses, enrollment numbers, or other direct identifiers.
+
+Analytical identifiers included in the public dataset are not institutional student identifiers.
+
+Original administrative records containing identifiable information are not included in this repository and remain under restricted access.
+
+## Reproducibility
+
+The final reproducibility package will provide the materials required to reproduce the descriptive and inferential analyses reported in the manuscript, including:
+
+- descriptive statistics by section and instructional condition;
+- Kruskal–Wallis comparison across the three instructional conditions;
+- pairwise Mann–Whitney tests with Bonferroni correction;
+- Cohen's d effect sizes;
+- post-improvement descriptive statistics;
+- Welch's t test;
+- Hedges' g effect size.
+
+## AI tutoring intervention
+
+The AI condition used a customized GPT-4o-based Socratic tutor during problem-solving sessions.
+
+The repository will preserve the corresponding tutor instructions, evaluation criteria, rubrics, and methodological documentation needed to describe the intervention.
+
+## Important methodological note
+
+This was a non-randomized quasi-experimental study.
+
+The instructional condition was partially confounded with instructor, and the statistical analyses do not fully account for clustering by course section or student team. Therefore, the reported comparisons are interpreted as associative and exploratory rather than as isolated causal effects of AI.
+
+## Citation
+
+Citation information and a permanent repository identifier will be added when the associated manuscript and archived repository version are available.
+
+## Institution
+
+Departamento de Física  
+Escuela Superior Politécnica del Litoral (ESPOL)  
+Guayaquil, Ecuador
